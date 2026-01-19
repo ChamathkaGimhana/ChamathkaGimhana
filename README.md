@@ -1,58 +1,88 @@
-<h1 align="center">Hi 👋, I'm Chamathka Gimhana</h1>
-<h3 align="center">A Passionate Frontend Developer from Sri Lanka</h3>
+<!-- ===================== PREMIUM HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Chamathka%20Gimhana&fontSize=46&fontAlignY=35&desc=Creative%20Developer%20%7C%20Digital%20Creator&descAlignY=55&animation=fadeIn" />
 
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamathkagimhana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=1%2C186%2B+Contributions+Last+Year+🔥;Building+Every+Single+Day+🚀;Game+Developer+🎮;Android+App+Developer+📱;Web+Developer+🌐;UI+Designer+🎨;Video+Editor+🎬;Turning+Ideas+Into+Products+✨" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-EDD718?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" />
+  <img src="https://komarev.com/ghpvc/?username=chamathkagimhana&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/chamathkagimhana?label=Followers&style=flat-square&color=6C63FF" />
 </p>
 
 ---
 
-### 🌱 About Me
-- I’m currently learning **JavaScript** and sharpening my frontend development skills.
-- I love exploring **open-source projects** and innovative frontend solutions.
-- 📫 Reach me at: **[gimhanac32@gmail.com](mailto:gimhanac32@gmail.com)**
-- ⚡ Fun fact: I'm passionate about **Android development** and enjoy trying new technologies.
+## 👑 About Me
+```diff
++ Creative Developer & Indie Creator from Sri Lanka 🇱🇰
++ 1,186+ contributions in the last year — strong daily consistency
++ Games, Mobile Apps, Web, UI Design & Video Editing
++ Focused on premium UX, performance & real-world production
+```
+
+📫 **Contact:**  
+**gimhanac32@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## ⚡ Contribution Activity (Live & Animated)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamathkagimhana&theme=react-dark&hide_border=true&area=true&custom_title=Daily%20Contribution%20Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathkagimhana&theme=radical&hide_border=true" />
+</p>
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🚀 What I Build
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮%20Game%20Development-Unity%20%7C%20C%23-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱%20Mobile%20Apps-Android%20%7C%20Firebase-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨%20UI%20Design-Figma%20%7C%20Illustrator-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎬%20Video%20Editing-Premiere%20Pro%20%7C%20After%20Effects-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,android,firebase,html,css,js,figma,ai,pr&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamathkagimhana&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamathkagimhana&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/chamathka-gimhana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:gimhanac32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://github.com/chamathkagimhana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamathkagimhana&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathkagimhana&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamathkagimhana&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
+<!-- ===================== PREMIUM FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" />
