@@ -1,0 +1,59 @@
+name: Creator OS · Sync Profile
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - README.md
+      - assets/**
+      - scripts/**
+      - .github/workflows/profile-sync.yml
+  schedule:
+    - cron: '17 1,13 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: creator-os-sync
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    if: github.repository == 'ChamathkaGimhana/ChamathkaGimhana'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out profile source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Render live telemetry and contribution grid
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: python scripts/build_profile.py --out dist
+
+      - name: Generate personal contribution snake · dark and light
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=%2342F5D1&color_dots=%231B2940,%23284B64,%23367B92,%23567BD5,%2342F5D1
+            dist/snake-light.svg?color_snake=%237C3AED&color_dots=%23F0F4FF,%23D8D5FF,%23B6ABFF,%23927DFF,%237C3AED
+
+      - name: Publish generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
