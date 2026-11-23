@@ -1,88 +1,107 @@
-<!-- ===================== PREMIUM HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Chamathka%20Gimhana&fontSize=46&fontAlignY=35&desc=Creative%20Developer%20%7C%20Digital%20Creator&descAlignY=55&animation=fadeIn" />
+<!--
+  CHAMATHKA // CREATOR OS
+  Built for: https://github.com/ChamathkaGimhana
+  Static artwork: assets/hero.svg and assets/capabilities.svg
+  Auto-generated panels: output branch, updated by GitHub Actions
+  All sections remain editable. Do not replace the output URLs with Platane's demo images.
+-->
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=1%2C186%2B+Contributions+Last+Year+🔥;Building+Every+Single+Day+🚀;Game+Developer+🎮;Android+App+Developer+📱;Web+Developer+🌐;UI+Designer+🎨;Video+Editor+🎬;Turning+Ideas+Into+Products+✨" />
-</p>
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Chamathka Gimhana — Creative Developer and Indie Creator" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamathkagimhana&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/chamathkagimhana?label=Followers&style=flat-square&color=6C63FF" />
-</p>
+  <br />
 
----
+  <strong>Creative code. Intentional design. Experiences that feel alive.</strong>
 
-## 👑 About Me
-```diff
-+ Creative Developer & Indie Creator from Sri Lanka 🇱🇰
-+ 1,186+ contributions in the last year — strong daily consistency
-+ Games, Mobile Apps, Web, UI Design & Video Editing
-+ Focused on premium UX, performance & real-world production
-```
+  <a href="https://github.com/ChamathkaGimhana?tab=repositories"><b>EXPLORE MY CODE</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:gimhanac32@gmail.com"><b>LET'S CREATE</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/chamathka-gimhana-geeth/"><b>LINKEDIN</b></a>
+</div>
 
-📫 **Contact:**  
-**gimhanac32@gmail.com**
+<br />
 
----
+### `01 / WHO I AM`
 
-## ⚡ Contribution Activity (Live & Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamathkagimhana&theme=react-dark&hide_border=true&area=true&custom_title=Daily%20Contribution%20Graph" />
-</p>
+I'm **Chamathka Gimhana**, a creative developer and indie creator from **Sri Lanka**. I enjoy the intersection of technology, interaction, and visual storytelling — from Unity gameplay and Android apps to expressive websites, carefully designed interfaces, and video content.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamathkagimhana&theme=radical&hide_border=true" />
-</p>
+I don't want products to simply *work*. I want them to **feel good to use**.
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+> **MY CREATIVE LOOP:** Imagine → Prototype → Build → Refine → Ship.
 
----
+### `02 / MY CREATIVE UNIVERSE`
 
-## 🚀 What I Build
-<p align="center">
-  <img src="https://img.shields.io/badge/🎮%20Game%20Development-Unity%20%7C%20C%23-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱%20Mobile%20Apps-Android%20%7C%20Firebase-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐%20Web%20Development-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="./assets/capabilities.svg" width="100%" alt="Capabilities in game development, mobile apps, web, visual design and video editing" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎨%20UI%20Design-Figma%20%7C%20Illustrator-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎬%20Video%20Editing-Premiere%20Pro%20%7C%20After%20Effects-purple?style=for-the-badge" />
-</p>
+<details>
+<summary><b>Open my toolkit / languages, frameworks and creative tools</b></summary>
+<br />
 
----
+| Area | Tools and technologies |
+|:--|:--|
+| **Games & interactive** | Unity · C# · gameplay prototyping |
+| **Mobile products** | Flutter · Dart · Android · Firebase |
+| **Web experiences** | HTML5 · CSS3 · JavaScript · responsive layouts |
+| **Interface design** | Figma · Adobe Illustrator · UI/UX |
+| **Video & motion** | Premiere Pro · After Effects · visual storytelling |
+| **Developer workflow** | Git · GitHub · iterative testing |
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,android,firebase,html,css,js,figma,ai,pr&perline=5" />
-</p>
+</details>
 
----
+### `03 / PUBLIC WORK`
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamathkagimhana&show_icons=true&theme=radical&hide_border=true" />
-</p>
+A few public experiments from my code collection. For everything available, visit **[my repositories](https://github.com/ChamathkaGimhana?tab=repositories)**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamathkagimhana&layout=compact&theme=radical&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✳ Personal Portfolio Webpage</h4>
+      <p>A personal website with project sections, visual presentation and ways to connect.</p>
+      <p><a href="https://github.com/ChamathkaGimhana/build-a-personal-portfolio-webpage"><b>Explore repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>◈ Product Landing Page</h4>
+      <p>A responsive product-page experiment focused on clear content and accessible navigation.</p>
+      <p><a href="https://github.com/ChamathkaGimhana/build-a-product-landing-page"><b>Explore repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
----
+### `04 / GITHUB TELEMETRY`
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/chamathka-gimhana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:gimhanac32@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<!-- Regenerated from actual GitHub data in the output branch; no manually maintained totals. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChamathkaGimhana/ChamathkaGimhana/output/telemetry.svg" width="100%" alt="Automatically updated public GitHub stats: contributions, repositories, stars and followers" />
+  <br />
+  <img src="https://raw.githubusercontent.com/ChamathkaGimhana/ChamathkaGimhana/output/activity.svg" width="100%" alt="Automatically updated GitHub contribution calendar for the past 365 days" />
+</div>
 
-<!-- ===================== PREMIUM FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" />
+### `05 / THE CONTRIBUTION SERPENT`
+
+<!-- This must be produced by YOUR workflow. Do not point to Platane/snk's demo branch. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChamathkaGimhana/ChamathkaGimhana/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChamathkaGimhana/ChamathkaGimhana/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/ChamathkaGimhana/ChamathkaGimhana/output/snake-dark.svg" width="100%" alt="Animated snake crossing Chamathka's actual GitHub contribution grid" />
+  </picture>
+</div>
+
+<sub>Visuals are generated by a scheduled GitHub Action from GitHub data. They refresh on successful workflow runs, rather than changing instantly with every commit.</sub>
+
+### `06 / CONNECT & BUILD SOMETHING`
+
+Have an interesting idea, interactive project, or a creative challenge? **Let's make something worth sharing.**
+
+<div align="center">
+
+<a href="mailto:gimhanac32@gmail.com"><strong>EMAIL ME</strong></a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/chamathka-gimhana-geeth/"><strong>LINKEDIN</strong></a> &nbsp; • &nbsp; <a href="https://github.com/ChamathkaGimhana?tab=repositories"><strong>GITHUB REPOSITORIES</strong></a>
+
+<strong>MAKE IT PLAYABLE. MAKE IT USABLE. MAKE IT MEMORABLE.</strong>
+
+<sub>Designed with intention · Built with curiosity · 🇱🇰</sub>
+
+</div>

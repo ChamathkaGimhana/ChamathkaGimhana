@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="350" viewBox="0 0 1220 350" role="img" aria-labelledby="systemTitle">
+<title id="systemTitle">Five creative disciplines: games, mobile apps, web, user interface design, and video production</title>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B1223"/><stop offset="1" stop-color="#0B1120"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#42F5D1"/><stop offset="1" stop-color="#A278FF"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#334766" stroke-opacity=".18" fill="none"/></pattern>
+</defs>
+<rect width="1220" height="350" rx="24" fill="url(#bg)"/>
+<rect width="1220" height="350" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1218" height="348" rx="23" fill="none" stroke="#293F56" stroke-width="2"/>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="32" y="44" font-size="17" fill="#42F5D1" font-weight="800" letter-spacing="2.4">THE CAPABILITY MATRIX</text>
+<text x="1185" y="44" font-size="12" fill="#8395B7" font-weight="700" text-anchor="end" letter-spacing="1.7">05 DISCIPLINES  •  ONE CREATIVE WORKFLOW</text>
+<g>
+    <rect x="30" y="72" width="226" height="238" rx="16" fill="#121D31" stroke="#2B4059" stroke-width="2"/>
+    <path d="M50 95H99" stroke="#42F5D1" stroke-width="4" stroke-linecap="round"/>
+    <text x="50" y="136" font-size="34" font-weight="900" fill="#42F5D1">01</text>
+    <text x="50" y="175" font-size="16" font-weight="800" fill="#EFF7FF" letter-spacing=".7">GAME SYSTEMS</text>
+    <text x="50" y="210" font-size="12.4" font-weight="600" fill="#C0D1E3">Unity  /  C#</text>
+    <path d="M50 234H235" stroke="#31415A" stroke-width="1"/>
+    <text x="50" y="265" font-size="12.5" fill="#90A6C1">Interactive worlds</text>
+    <circle cx="227" cy="286" r="4" fill="#42F5D1"/>
+    </g><g>
+    <rect x="269" y="72" width="226" height="238" rx="16" fill="#121D31" stroke="#2B4059" stroke-width="2"/>
+    <path d="M289 95H338" stroke="#9B83FF" stroke-width="4" stroke-linecap="round"/>
+    <text x="289" y="136" font-size="34" font-weight="900" fill="#9B83FF">02</text>
+    <text x="289" y="175" font-size="16" font-weight="800" fill="#EFF7FF" letter-spacing=".7">MOBILE PRODUCTS</text>
+    <text x="289" y="210" font-size="12.4" font-weight="600" fill="#C0D1E3">Flutter  /  Android  /  Firebase</text>
+    <path d="M289 234H474" stroke="#31415A" stroke-width="1"/>
+    <text x="289" y="265" font-size="12.5" fill="#90A6C1">Ideas in your pocket</text>
+    <circle cx="466" cy="286" r="4" fill="#9B83FF"/>
+    </g><g>
+    <rect x="508" y="72" width="226" height="238" rx="16" fill="#121D31" stroke="#2B4059" stroke-width="2"/>
+    <path d="M528 95H577" stroke="#5FC1FF" stroke-width="4" stroke-linecap="round"/>
+    <text x="528" y="136" font-size="34" font-weight="900" fill="#5FC1FF">03</text>
+    <text x="528" y="175" font-size="16" font-weight="800" fill="#EFF7FF" letter-spacing=".7">WEB EXPERIENCES</text>
+    <text x="528" y="210" font-size="12.4" font-weight="600" fill="#C0D1E3">HTML  /  CSS  /  JavaScript</text>
+    <path d="M528 234H713" stroke="#31415A" stroke-width="1"/>
+    <text x="528" y="265" font-size="12.5" fill="#90A6C1">Design meets function</text>
+    <circle cx="705" cy="286" r="4" fill="#5FC1FF"/>
+    </g><g>
+    <rect x="747" y="72" width="226" height="238" rx="16" fill="#121D31" stroke="#2B4059" stroke-width="2"/>
+    <path d="M767 95H816" stroke="#FFBE76" stroke-width="4" stroke-linecap="round"/>
+    <text x="767" y="136" font-size="34" font-weight="900" fill="#FFBE76">04</text>
+    <text x="767" y="175" font-size="16" font-weight="800" fill="#EFF7FF" letter-spacing=".7">UI &amp; VISUALS</text>
+    <text x="767" y="210" font-size="12.4" font-weight="600" fill="#C0D1E3">Figma  /  Illustrator</text>
+    <path d="M767 234H952" stroke="#31415A" stroke-width="1"/>
+    <text x="767" y="265" font-size="12.5" fill="#90A6C1">Interfaces with intent</text>
+    <circle cx="944" cy="286" r="4" fill="#FFBE76"/>
+    </g><g>
+    <rect x="986" y="72" width="226" height="238" rx="16" fill="#121D31" stroke="#2B4059" stroke-width="2"/>
+    <path d="M1006 95H1055" stroke="#EA8FEF" stroke-width="4" stroke-linecap="round"/>
+    <text x="1006" y="136" font-size="34" font-weight="900" fill="#EA8FEF">05</text>
+    <text x="1006" y="175" font-size="16" font-weight="800" fill="#EFF7FF" letter-spacing=".7">MOTION &amp; EDITING</text>
+    <text x="1006" y="210" font-size="12.4" font-weight="600" fill="#C0D1E3">Premiere  /  After Effects</text>
+    <path d="M1006 234H1191" stroke="#31415A" stroke-width="1"/>
+    <text x="1006" y="265" font-size="12.5" fill="#90A6C1">Stories in motion</text>
+    <circle cx="1183" cy="286" r="4" fill="#EA8FEF"/>
+    </g><rect x="30" y="326" width="1160" height="3" rx="1.5" fill="url(#accent)"/>
+</g></svg>
